@@ -146,7 +146,7 @@ const projects = [
 • Create function to provide Arender annotation and redaction feature to box files.\n\
 • Implement user based authentication to login into box repository.\n\
 • Assist Frontend developers with UI creation and API calls.',
-    // url: "https://github.com/kaustubhai",
+    // url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
@@ -165,7 +165,7 @@ const projects = [
     id: "project4",
     name: "Irving Oil mobile App",
     skills: ["Android,IOS,swift,java"],
-    //url: "https://github.com/kaustubhai",
+    //url: "https://github.com/",
     role: '• Developed Mobile app on Android and IOS platform.\n\
 • Integrate apps with Documentum platform and fetch the data.\n\
 • Used CMIS service in Android application for fetching the data from Documentum Repository.\n\
@@ -176,14 +176,14 @@ const projects = [
   //   id: "project5",
   //   name: "Project 5",
   //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/kaustubhai",
+  //   url: "https://github.com/",
   // },
   // {
   //   // Add image in './styles/images.css' in #project6
   //   id: "project6",
   //   name: "Project 6",
   //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/kaustubhai",
+  //   url: "https://github.com/",
   // },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -191,24 +191,24 @@ const projects = [
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
 const section4Title = "Miscellaneous";
 const miscellaneous = [
-  {
-    // Add image in './styles/images.css' in #misc1
-    id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #misc2
-    id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #misc1
+  //   id: "misc1",
+  //   name: "Miscellaneous 1",
+  //   url: "https://github.com/",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #misc2
+  //   id: "misc2",
+  //   name: "Miscellaneous 2",
+  //   url: "https://github.com/",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #misc3
+  //   id: "misc3",
+  //   name: "Miscellaneous 3",
+  //   url: "https://github.com/",
+  // },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
