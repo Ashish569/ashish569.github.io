@@ -5,19 +5,21 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('../components/image/indrasoft_logo.jpeg');
     cursor: none;    
+    /* height: '20px';
+    width: '20px'; */
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('../components/image/arondor_logo.png');
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('../components/image/molina_logo.jpg');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url('../components/image/irving_logo.png');
     cursor: none;
 }
 .project5{
@@ -26,6 +28,10 @@
 }
 .project6{
     background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    cursor: none;
+}
+.project7{
+    background-image: url('../components/image/bond_logo1.png');
     cursor: none;
 }
 /* Miscelaneous Activities photo */
