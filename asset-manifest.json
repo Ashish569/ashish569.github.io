@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ashishportfolio/static/css/main.0cf3cf9a.chunk.css",
+    "main.js": "/ashishportfolio/static/js/main.069be24a.chunk.js",
+    "main.js.map": "/ashishportfolio/static/js/main.069be24a.chunk.js.map",
+    "runtime-main.js": "/ashishportfolio/static/js/runtime-main.bee2c175.js",
+    "runtime-main.js.map": "/ashishportfolio/static/js/runtime-main.bee2c175.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/ashishportfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.bcc8a0d7.chunk.js": "/ashishportfolio/static/js/2.bcc8a0d7.chunk.js",
+    "static/js/2.bcc8a0d7.chunk.js.map": "/ashishportfolio/static/js/2.bcc8a0d7.chunk.js.map",
+    "index.html": "/ashishportfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/ashishportfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.0cf3cf9a.chunk.css.map": "/ashishportfolio/static/css/main.0cf3cf9a.chunk.css.map",
+    "static/js/2.bcc8a0d7.chunk.js.LICENSE.txt": "/ashishportfolio/static/js/2.bcc8a0d7.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/ashishportfolio/static/media/molina_logo.9c578ed8.jpg",
+    "static/media/ashishF.023d64c6.jpg": "/ashishportfolio/static/media/ashishF.023d64c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bee2c175.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.bcc8a0d7.chunk.js",
+    "static/css/main.0cf3cf9a.chunk.css",
+    "static/js/main.069be24a.chunk.js"
+  ]
+}
